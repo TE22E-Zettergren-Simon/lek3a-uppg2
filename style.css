@@ -36,3 +36,26 @@ body {
 .lediga-dagar li:last-child {
 	background-color: darkgoldenrod;
 }
+
+.kalender {
+	text-align: center;
+	font-weight: 700;
+	border-collapse: collapse;
+	border: 5px solid black;
+}
+
+.kalender * {
+	border: 2px solid red;
+}
+
+.kalender th {
+	background-color: gray;
+}
+
+.kalender td {
+	background-color: burlywood;
+}
+
+.kalender .röd-dag {
+	color: red;
+}
