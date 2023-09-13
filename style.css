@@ -1,5 +1,6 @@
 body {
 	background-image: url(img/winter-snow.jpg);
+	font-family: "Work Sans", sans-serif;
 
 	display: flex;
 	flex-direction: column;
