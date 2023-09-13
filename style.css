@@ -59,3 +59,8 @@ body {
 .kalender .röd-dag {
 	color: red;
 }
+
+.sidfot {
+	margin-top: 20px;
+	border: 5px solid black;
+}
