@@ -1,0 +1,11 @@
+.huvudrubrik {
+	display: flex;
+	justify-content: space-between;
+
+	border: 5px solid black;
+}
+
+.huvudrubrik h1 {
+	background-color: gray;
+	color: burlywood;
+}
