@@ -18,3 +18,20 @@ body {
 	background-color: gray;
 	color: burlywood;
 }
+
+.lediga-dagar {
+	padding: 10px 25px;
+	background-color: gray;
+	border: 2px solid burlywood;
+	color: white;
+	list-style: square;
+}
+
+.lediga-dagar li:nth-child(2) {
+	color: red;
+	background-color: white;
+}
+
+.lediga-dagar li:last-child {
+	background-color: darkgoldenrod;
+}
